@@ -90,7 +90,14 @@ Basicamente, aqui iremos colocar informações sobre implementações futuras. P
     - ***Descrição:*** Aqui vai a descrição do item:
 ## Como contribuir
 
-Aqui pode colocar 
+Contribuições são sempre bem-vindas. Existem várias maneiras de contribuir com este projeto, como:
+
+💪 Se juntando ao time de desenvolvimento.
+🌟 Dando uma estrela no projeto.
+🐛 Reportando um Bug.
+😅 Indicando um vacilo que eu possa ter cometido.
+📄 Ajudando a melhorar a documentação.
+🚀 Compartilhando este projeto com seus amigos. 
 
 ## Licenças
 
@@ -99,6 +106,10 @@ Aqui você coloca o tipo de licenças que o projeto precisa. (MIT, GNU ou afins)
 ## Status do Projeto
 
 Aqui você informa como está o andamento do projeto. (Finalizado, em andamento, congelado e afins)
+
+
+
+
 
 
 
