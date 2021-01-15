@@ -6,7 +6,7 @@ Silvio Santos Ipsum Valendo um milhão de reaisammm. Eu não queria perguntar is
 
 <img src="https://user-images.githubusercontent.com/72177982/104758412-2cbae700-573d-11eb-8479-7cad2dfe9cc7.png" width="100%">
 
-![Version](https://img.shields.io/badge/Version-1.0.0-green) ![Build](https://img.shields.io/badge/Build-Passing-29BF12) ![Projeto](https://img.shields.io/badge/Projeto-Nome_Projeto-08BDBD) ![Code_Quality](https://img.shields.io/badge/Code_Quality-Good-3A5683) ![Language](https://img.shields.io/badge/Language-JavaScript-F7DF1E) ![Language](https://img.shields.io/badge/Language-NodeJS-339933)
+![Version](https://img.shields.io/badge/Version-1.0.0-green) ![Build](https://img.shields.io/badge/Build-Passing-29BF12) ![Projeto](https://img.shields.io/badge/Projeto-Nome_Projeto-08BDBD) ![Code_Quality](https://img.shields.io/badge/Code_Quality-Good-3A5683) ![Language](https://img.shields.io/badge/Language-JavaScript-F7DF1E)![Languange NodeJS](https://img.shields.io/badge/Language-NodeJS-339933) ![Me Patrocina](https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=flat-square&logo=intel&logoColor=white) ![PC](https://img.shields.io/badge/Windows-ACER_Aspire_3-0078D6?style=flat-square&logo=windows&logoColor=white)
 
 <!-- APAGAR ESSA FOTO E COLOCAR UM SCREENSHOT DO PROJETO -->
 !![image](https://phoneky.co.uk/thumbs/screensavers/down/technology/androidani_o27vc7fb.gif)
